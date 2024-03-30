@@ -1,5 +1,5 @@
-                                                  NAME : GURUMURTHY S
-                                                  REG. NO. : 212223230066
+                                                        NAME : GURUMURTHY S
+                                                        REG. NO. : 212223230066
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -59,4 +59,5 @@ plt.legend(['Regression Line','Data points'])
 # Result
 ![image](https://github.com/Gurumurthys1/Correlation_Regression/assets/163425568/8e942b4b-9c7b-4f55-b97d-4d66fdc4fd0e)
 
-# Output 
+# Output :
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
